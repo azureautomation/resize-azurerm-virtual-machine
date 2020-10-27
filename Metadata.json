@@ -1,0 +1,20 @@
+{
+    "Author": "Clavin Fernandes",
+    "ContentSize": 1093,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/resize-azurerm-virtual-machine/master/Resizeazurevm.ps1",
+    "DownloadCount": 1627,
+    "Id": "Resize-AzureRm-Virtual-f0eb8d59",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 93,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-8-7T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "How to resize AzureVM and getting around the Error - Storage account of type \u201cPremium_LRS\u201d is not support for VM size \u201cStandard\u201d during VM resize. For more details see: https://clavinfernandes.wordpress.com/2017/07/27/failed-to-resize-vm/",
+    "Title": "Resize AzureRm Virtual Machine",
+    "UpdatedDate": "2018-7-23T00:00:00",
+    "Url": "https://github.com/azureautomation/resize-azurerm-virtual-machine",
+    "UserTags": "Microsoft Azure, Windows Azure Virtual Machines"
+}
